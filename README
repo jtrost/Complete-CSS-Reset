@@ -2,7 +2,8 @@ Complete CSS Reset is adapted from http://meyerweb.com/eric/tools/css/reset/
 
 Unique Featues of Complete CSS Reset:
 * Includes all structural HTML 5 tags.
-* Adds resets for background, outline, and z-index.
+* Includes form tags
+* Adds resets for background, outline, text-decoration and z-index.
 * Actually resets styles. Does not assume how you want your tags styled.
 * Hides deprecated tags from HTML 4.01 to help get you out of the habit
   of using these tags.
