@@ -31,12 +31,13 @@ noscript, object, ol, optgroup, option, output, p, param, pre, progress,
 q, rp, rt, ruby, samp, section, select, small, span, strong, sub, sup, 
 table, tbody, td, textarea, tfoot, th, thead, time, tr, ul, var, video {
 	background: transparent;
-	margin: 0;
-	padding: 0;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+	margin: 0;
 	outline: none;
+	padding: 0;
+	text-decoration: none;
 	vertical-align: baseline;
 	z-index: 1;
 }
